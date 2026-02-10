@@ -40,3 +40,8 @@ Mandotary Comments:
 >> git add .# use for push all the file
 >>git commit -m "message if you have any " #to comments
 >>git push # to push our application
+>>git push --set-upstream origin master # push for master file
+>>git push --set-upstream origin main # puch for main file
+
+>> for creating a new branch
+>> git checkout -b "branch name"
