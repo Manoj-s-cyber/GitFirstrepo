@@ -1,0 +1,42 @@
+Git >> use for version control
+
+V1
+V2
+V3
+V4
+
+>>it is distributed (on cloud)
+>> collaberation
+>> Tracking changes
+>> Reconvery
+>>https://git-scm.com/install/windows
+
+>> Github
+>> Bitbucket
+>> GitLabs
+>> GitPod
+
+>> for first time need to configure github in your machine you should write these lines for configure
+git config --global user.name "Manoj-s-cyber" #for link
+git config --global user.email "manojksunia@gmail.com #for link
+l.com"
+git config --global color.ui auto
+
+>>Mandoary comments
+>>git init
+>>git remote add origin https://github.com/Manoj-s-cyber/GitFirstrepo.git
+
+
+
+Mandotary Comments:
+>> git init
+>> git remote add origin https://github.com/Manoj-s-cyber/GitFirstrepo.git
+
+
+>> how to raise pull request in github
+>> git pull origin main
+>>git pull origin main
+>>git status # for pusing the file
+>> git add .# use for push all the file
+>>git commit -m "message if you have any " #to comments
+>>git push # to push our application
